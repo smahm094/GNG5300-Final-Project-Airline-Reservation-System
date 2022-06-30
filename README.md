@@ -13,6 +13,7 @@ The web application features cater to three user types:
   1.	Customers
   2.	Airline Staff 
   3.	Booking Agents
+  
 
 *	Each user, depending on user level is granted different permissions. 
 *	All three user types are allowed to register for and log into their personal accounts and log back out when completed. All users that are not logged into the system are only allowed to perform three actions: view a current dashboard of flights, search for future flights, and register for new accounts. 
