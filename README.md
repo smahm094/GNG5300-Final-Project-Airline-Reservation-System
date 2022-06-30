@@ -1,8 +1,9 @@
 # Final Project: Airline Reservation System
 
 A mock-up of a web application for an Airline Reservation System was developed in this final project of the graduate-level course: GNG5300 - Full Stack Software Development.
-For webpage design: HTML/CSS/JavaScript  
-For data storage and connections: Python and MySQL
+
+* For webpage design: HTML/CSS/JavaScript  
+* For data storage and connections: Python and MySQL
 This project was developed and implemented on the Windows platform. 
 Visual Studio Code was used as the development environment.
 The web application features cater to three user types: 
